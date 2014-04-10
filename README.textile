@@ -1,4 +1,4 @@
-h2. Welcome to the home of JCors
+h2. Welcome to the home of JCors Fork
 
 JCors is a simple and flexible Java implementation of W3C CORS spec.
 See more details about CORS "here":http://www.w3.org/TR/cors/
@@ -51,6 +51,4 @@ There are some things to improve on this project, can you help me?
 
 h3. About me
 
-Email me: diegossilveira at gmail.com
-
-Follow me: "@diegossilveira":http://twitter.com/diegossilveira
+Email me: git at dougericson.com
